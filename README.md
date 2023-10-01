@@ -22,7 +22,7 @@ All files uploaded to the pandas-challenge repository including:
     - Resources folder containing:  
         - school_complete.csv - dataset used by the Python script  
         - students_complete.csv - dataset used by the Python script
-    - PyCitySchools_starter.ipynb - Pythong jupyter notebook file 
+    - PyCitySchools_starter.ipynb - Python jupyter notebook file 
 
 - Images folder containing:  
     - education.png
